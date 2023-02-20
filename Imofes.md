@@ -42,6 +42,6 @@
     - [decor text box](http://aglstaff.allgrow-labo.jp/trandiepthanhthanh/test/images/index/kanta_title.png)
 
 ***
-## **Chú ý quan trong**
+## **Chú ý quan trọng**
 - Không chỉ xóa những hình không dùng đến mà phải xóa tất cả các file không dùng đến như folder cms, page template.
 - Khi nộp source code thì nộp luôn folder dist.
