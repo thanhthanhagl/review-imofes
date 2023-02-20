@@ -13,11 +13,11 @@
 ### Header + Mainvisual
 - Mainvisual nằm trong header.
 - Background header không cắt phần màu vàng.<br>
-    - ![background-header](http://aglstaff.allgrow-labo.jp/trandiepthanhthanh/test/images/common/mv.png)
+    - [background-header](http://aglstaff.allgrow-labo.jp/trandiepthanhthanh/test/images/common/mv.png)
 - Gộp tất cả hình dưới thành 1 group, đặt nó làm h1.<br>
-    - ![mv](http://aglstaff.allgrow-labo.jp/trandiepthanhthanh/test/images/index/top.png)
+    - [mv](http://aglstaff.allgrow-labo.jp/trandiepthanhthanh/test/images/index/top.png)
 ### **Section info**
-- ![section info](https://prnt.sc/osTYIziO-a5C)
+- [section info](https://prnt.sc/osTYIziO-a5C)
 - Đặt margin là âm (ở đây khách để -20%) để nó đè lên phần bachground dư của header bên trên.
 ### **Section feature**
 - Cách chia bố cục các box:
@@ -37,7 +37,7 @@
 **Box cuối**
 - Vẫn dùng before và after để chèn ảnh cho box.
 - Cắt hình ở trên thành 2 phần. Hình có củ khoai thì cho nó là before của box text.
-    - ![decor củ khoai](http://aglstaff.allgrow-labo.jp/trandiepthanhthanh/test/images/index/kanta_title.png)
+    - [decor text box](http://aglstaff.allgrow-labo.jp/trandiepthanhthanh/test/images/index/kanta_title.png)
 
 ***
 ## **Chú ý quan trong**
