@@ -23,17 +23,17 @@
 - Đặt margin là âm (ở đây khách để -20%) để nó đè lên phần bachground dư của header bên trên.
 ### **Section feature**
 - Cách chia bố cục các box:
-    - Row 1:chia 2 cột và cắt thành 2 hình riêng, gắn link cho instagram.
-    - Row 2: chia 2 cột, 1 cột text, 1 cột hình (group 2 hình 2 lại với nhau).
-    - Row 3: 1 hình (group 3 hình lại và export).
-*Note 1: Thay vì đặt class phụ *c-feature__row c-feature__title*" thì hãy đặt thành "*c-feature__row --title*"
-    c-feature__row c-feature__title -> c-feature__row --title
-    => css
-    .c-feature {
-        &__row {
-            &.--title {
-            }
-        }
+    - Row 1: chia 2 cột và cắt thành 2 hình riêng, gắn link cho instagram.
+    - Row 2: chia 2 cột, 1 cột text, 1 cột hình (group 2 hình lại với nhau).
+    - Row 3: 1 hình (group 3 hình lại và export).<br>
+*Note 1: Thay vì đặt class phụ *c-feature__row c-feature__title*" thì hãy đặt thành "*c-feature__row --title*"<br>
+    c-feature__row c-feature__title -> c-feature__row --title<br>
+    => css<br>
+    .c-feature {<br>
+        &__row {<br>
+            &.--title {<br>
+            }<br>
+        }<br>
     }
 *Note 2: Những row chia 2 cột thì khi xuống sp cho nó thành 2 hàng.
 **Box cuối**
