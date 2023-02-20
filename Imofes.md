@@ -28,13 +28,13 @@
     - Row 3: 1 hình (group 3 hình lại và export).<br>
 *Note 1: Thay vì đặt class phụ *c-feature__row c-feature__title*" thì hãy đặt thành "*c-feature__row --title*"<br>
 ```
-    c-feature__row c-feature__title -> c-feature__row --title<br>
-    => css<br>
-    .c-feature {<br>
-        &__row {<br>
-            &.--title {<br>
-            }<br>
-        }<br>
+    c-feature__row c-feature__title -> c-feature__row --title
+    => css
+    .c-feature 
+        &__row 
+            &.--title 
+            }
+        }
     }
  ```
 *Note 2: Những row chia 2 cột thì khi xuống sp cho nó thành 2 hàng.
