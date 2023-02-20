@@ -27,6 +27,7 @@
     - Row 2: chia 2 cột, 1 cột text, 1 cột hình (group 2 hình lại với nhau).
     - Row 3: 1 hình (group 3 hình lại và export).<br>
 *Note 1: Thay vì đặt class phụ *c-feature__row c-feature__title*" thì hãy đặt thành "*c-feature__row --title*"<br>
+```
     c-feature__row c-feature__title -> c-feature__row --title<br>
     => css<br>
     .c-feature {<br>
@@ -35,6 +36,7 @@
             }<br>
         }<br>
     }
+ ```
 *Note 2: Những row chia 2 cột thì khi xuống sp cho nó thành 2 hàng.
 **Box cuối**
 - Vẫn dùng before và after để chèn ảnh cho box.
