@@ -16,6 +16,8 @@
     - [background-header](http://aglstaff.allgrow-labo.jp/trandiepthanhthanh/test/images/common/mv.png)
 - Gộp tất cả hình dưới thành 1 group, đặt nó làm h1.<br>
     - [mv](http://aglstaff.allgrow-labo.jp/trandiepthanhthanh/test/images/index/top.png)
+- Phần lượn sóng thì cắt hình ra vfa cho z-index thấp hơn.
+    - [before mv](http://aglstaff.allgrow-labo.jp/trandiepthanhthanh/test/images/common/mv_before.png)
 ### **Section info**
 - [section info](https://prnt.sc/osTYIziO-a5C)
 - Đặt margin là âm (ở đây khách để -20%) để nó đè lên phần bachground dư của header bên trên.
