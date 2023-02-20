@@ -41,5 +41,5 @@
 
 ***
 ## **Chú ý quan trong**
-- Không chỉ xóa những hình không dùng đến mà phải xóa tất cả các file không dùng đến như folder cms, page template.\
+- Không chỉ xóa những hình không dùng đến mà phải xóa tất cả các file không dùng đến như folder cms, page template.
 - Khi nộp source code thì nộp luôn folder dist.
